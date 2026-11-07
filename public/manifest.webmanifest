@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Denge Sofrası - 12 Aylık Yemek Planı",
+  "short_name": "Denge Sofrası",
+  "description": "Sadece sabah ve akşam öğünleri için sade, mevsimlik 12 aylık örnek yemek planı.",
+  "lang": "tr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f6f0",
+  "theme_color": "#f7f6f0",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
